@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\corona_virus\corona_virus\bin\Debug\corona_virus.exe.config
+C:\Users\dell\source\repos\corona_virus\corona_virus\bin\Debug\corona_virus.exe
+C:\Users\dell\source\repos\corona_virus\corona_virus\bin\Debug\corona_virus.pdb
+C:\Users\dell\source\repos\corona_virus\corona_virus\obj\Debug\corona_virus.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\corona_virus\corona_virus\obj\Debug\corona_virus.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\corona_virus\corona_virus\obj\Debug\corona_virus.exe
+C:\Users\dell\source\repos\corona_virus\corona_virus\obj\Debug\corona_virus.pdb
